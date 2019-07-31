@@ -17,7 +17,7 @@ GROUP_SIZE = 50
 # set the endpoint API URL
 URL = "https://api.cognitive.microsoft.com/bing/v7.0/images/search"
 
-API_KEY = "41a5ef16af224b3d95acc581bd4cd86b"
+API_KEY = "API KEY"
 MAX_RESULTS = 250
 GROUP_SIZE = 50
 # set the endpoint API URL
